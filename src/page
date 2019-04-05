@@ -1,0 +1,34 @@
+<!doctype html>
+<html class="no-js" lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>jQuery Tutorial</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" href="css/style.css">
+
+    <h1>jQuery web</h1>
+    <p>Lorem ipsum dolor sit amet.</p>
+    <a href="">Link</a>
+</head>
+
+<body>
+
+<div id="content" class="wrapper box">
+
+        <p>Etiam elementum lorem non tempor semper. Etiam tincidunt nibh in leo iaculis dictum. Aliquam nec augue nisi. Sed sem dolor, gravida vel vehicula id, pharetra vitae magna. Suspendisse at volutpat.
+        </p>
+
+        <p>
+            Donec rutrum justo sed tempus vehicula. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Duis vel ex in nulla commodo fringilla eu sed neque. Sed quis hendrerit sapien, vel hendrerit arcu. Pellentesque nec maximus felis. Duis ipsum metus, sollicitudin sed sagittis tristique, malesuada in lorem
+        </p>
+</div>
+<footer>$copy;copyright 2019</footer>
+<!--script-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="js/main.js"></script>
+</body>
+
+</html>
